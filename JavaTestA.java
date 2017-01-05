@@ -7,6 +7,8 @@ int sum= num1+ num2;
 System.out.println("Sum is " + sum);
 System.out.println("This is good");
 System.out.print ("Adding another Line");
+System.out.print ("Adding second Line");
+
 
 }
 }
